@@ -1,7 +1,7 @@
 # dashboard_grafana_nvr
 Dashboard para monitoramento de NVR e DVR.
 
-![Title](image/nvr.png)
+![Title](NVR.png)
 
 Host Utilizado: Intelbras NVR 1432
 Source: Zabbix
@@ -17,7 +17,7 @@ CPU e Memória.
 
 Grafana: https://grafana.com/orgs/marcusronney
 
-![Title](image/cam.png)
+![Title](cam.png)
 
-![Title](image/disk.png)
+![Title](disk.png)
 
